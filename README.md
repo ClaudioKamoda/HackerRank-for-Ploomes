@@ -2,7 +2,7 @@
 
 HackerRank Challenges for Ploomes job interview
 
-<img src="https://github.com/ClaudioKamoda/HackerRank-for-Ploomes/blob/main/src/print.PNG" alt="print" width="500"/>
+<img src="https://github.com/ClaudioKamoda/HackerRank-for-Ploomes/blob/main/print.PNG" alt="print" width="500"/>
 
 ### Files
 
